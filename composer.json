@@ -11,5 +11,10 @@
       "email": "rjayswal780@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Rjayswal\\Fileupload\\": "src"
+    }
+  },
   "minimum-stability": "dev"
 }
