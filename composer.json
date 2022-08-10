@@ -1,0 +1,12 @@
+{
+    "name": "rohit/nativeupload",
+    "description": "Upload file in simple way",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rjayswal",
+            "email": "rjayswal780@gmail.com"
+        }
+    ],
+    "require": {}
+}
